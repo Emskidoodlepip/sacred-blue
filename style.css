@@ -60,7 +60,6 @@ span {
 }
 
 #albumbox {
-	overflow:scroll;
 	position:absolute;
 	height:90vh;
 	width:70vh;
@@ -79,23 +78,23 @@ span {
 }
 
 #albumbox span {
-	color: #87876e;
+	color:#87876e;
 }
 
 #albumbox a {
-	color: #87876e;
+	color:#87876e;
 }
 
 #albumbox a:visited {
-	color: #87876e;
+	color:#87876e;
 }
 
-#sacredstripe {
-    background-color: #0437F2;
-    width: 200vw;
-    padding: 5px;
-    margin-left: -100vw;
-    padding-left: 100vw;
+p#sacredstripe {
+    background-color:#0437F2;
+    width:200vw;
+    padding:5px;
+    margin-left:-100vw;
+    padding-left:100vw;
 }
 
 @media screen and (orientation:portrait) {
