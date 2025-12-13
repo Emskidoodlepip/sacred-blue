@@ -90,6 +90,10 @@ span {
 	color: #87876e;
 }
 
+#sacred {
+	color: #0437F2;
+}
+
 @media screen and (orientation:portrait) {
 
 	#shootingstar {
