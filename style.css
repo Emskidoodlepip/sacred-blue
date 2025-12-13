@@ -90,8 +90,12 @@ span {
 	color: #87876e;
 }
 
-#sacred {
-	color: #0437F2;
+#sacredstripe {
+    background-color: #0437F2;
+    width: 200vw;
+    padding: 5px;
+    margin-left: -100vw;
+    padding-left: 100vw;
 }
 
 @media screen and (orientation:portrait) {
