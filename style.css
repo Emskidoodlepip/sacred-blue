@@ -7,8 +7,70 @@ p {
 	color:#ddd;
 }
 
+a {
+	color:#87876e;
+}
+
+a:visited {
+	color:#87876e;
+}
+
 span {
 	white-space:nowrap;
+}
+
+#main-bio {
+	width:200px;
+	text-align:justify;
+	margin:60px;
+}
+
+#main-music {
+	position:absolute;
+	top:20vh;
+	left:80vw;
+}
+
+#main-sacredblue {
+	position:absolute;
+	top:22vh;
+	left:85vw;
+}
+
+#main-writing {
+	position:absolute;
+	top:79vh;
+	left:40vw;
+}
+
+#main-myriadet {
+	position:absolute;
+	top:84vh;
+	left:38vw;
+}
+
+#main-concerts {
+	position:absolute;
+	top:31vh;
+	left:19vw;
+}
+
+#main-swans {
+	position:absolute;
+	top:34vh;
+	left:26vw;
+}
+
+#main-tnp {
+	position:absolute;
+	top:38vh;
+	left:23vw;
+}
+
+#main-kiran {
+	position:absolute;
+	top:41vh;
+	left:24vw;
 }
 
 #downbox {
@@ -78,14 +140,6 @@ span {
 }
 
 #albumbox span {
-	color:#87876e;
-}
-
-#albumbox a {
-	color:#87876e;
-}
-
-#albumbox a:visited {
 	color:#87876e;
 }
 
