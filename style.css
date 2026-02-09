@@ -132,9 +132,9 @@ span {
 }
 
 #albumbox img {
-	width:60vh;
-	height:30vh;
-	margin-left:5vh;
+	width:80vh;
+	height:40vh;
+	margin-left:-2vh;
 	/* border:2px solid black;*/
 	border-radius:0.8em;
 }
