@@ -89,7 +89,10 @@ span {
 	position:absolute;
 	top:20vh;
 	left:20vw;
+	max-width:60vw;
 	padding-bottom:20vh;
+	color:#ddd;
+}
 
 #downbox {
 	position:absolute;
