@@ -55,6 +55,12 @@ span {
 	left:36vw;
 }
 
+#main-fandango {
+	position:absolute;
+	top:87vh;
+	left:42vw;
+}
+
 #main-concerts {
 	position:absolute;
 	top:31vh;
@@ -78,6 +84,12 @@ span {
 	top:41vh;
 	left:24vw;
 }
+
+#writing-body {
+	position:absolute;
+	top:20vh;
+	left:20vw;
+	padding-bottom:20vh;
 
 #downbox {
 	position:absolute;
